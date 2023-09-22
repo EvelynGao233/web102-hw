@@ -26,6 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+<img src='[https://imgur.com/8VvAoKw]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ![Video walkthrough]((https://github.com/EvelynGao233/web102-week1/blob/main/Kapture%202023-09-22%20at%2001.27.05.gif))
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
